@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=The-Yearly.The-Yearly">
 
 ## Hi there 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=The-Yearly)](https://git.io/streak-stats)
 <!--
 **The-Yearly/The-Yearly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
