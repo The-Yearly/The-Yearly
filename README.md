@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=The-Yearly.The-Yearly">
 
 ## Hi there 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Yearly&show_icons=true&theme=radical)
+
 <!--
 **The-Yearly/The-Yearly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
