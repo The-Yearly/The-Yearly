@@ -5,4 +5,3 @@
 
 - 🔭 I’m currently working on myResume A Free Resume hosting and building service
 - 🌱 I’m currently learning Rust
-- ⚡ Fun fact: ...
