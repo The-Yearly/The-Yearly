@@ -3,5 +3,5 @@
 ## Hi there 
 [![GitHub Streak](https://streak-stats.demolab.com?user=The-Yearly)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on myResume A Free Resume hosting and building service https://myresume-livid-sigma.vercel.app/
+- 🔭 I’m currently working on [myResume A Free Resume hosting and building service](https://myresume-livid-sigma.vercel.app/)
 - 🌱 I’m currently learning Rust
