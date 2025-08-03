@@ -7,9 +7,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=The-Yearly.The-Yearly">
 🚀 About Me
 I'm a passionate developer who loves creating solutions that make a difference. Currently building robust backends with Go (Gin framework) and web applications that solve real-world problems.
+<br/>
+Passionate about AI <sup>(But bother my friends regarding Doubts Instead of researching on my On)</sup>
 
 ```
-gotype Developer struct {
+type Developer struct {
     Name          string
     CurrentFocus  []string
     BackendStack  string
