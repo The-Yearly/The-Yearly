@@ -77,6 +77,11 @@ Transform your career prospects with our intuitive resume builder and hosting pl
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=The-Yearly&repo=myResume&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
 </div>
+<div align="center">
+  <a href="https://github.com/The-Yearly/myResume">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=The-Yearly&repo=bloggify&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
+</div>
 
 ## 🤝 Let's Connect
 
