@@ -1,4 +1,4 @@
-# 👋 Welcome To My Quite Corner Of The World
+# 👋 Welcome To My Quiet Corner Of The World
 
 
 <div align="center">
