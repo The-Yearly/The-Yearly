@@ -91,7 +91,7 @@ I'm always excited to connect with fellow developers, collaborate on interesting
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnyohanskaria72@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-yohan/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yohan_j_5)
-
+[![Blog](https://img.shields.io/badge/-Blog-0A66C2?style=for-the-badge&logo=medium&logoColor=white)](https://bento-blog-me.vercel.app/)
 </div>
 
 <div align="center">
