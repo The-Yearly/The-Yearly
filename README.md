@@ -44,7 +44,7 @@ Transform your career prospects with our intuitive resume builder and hosting pl
 - 🌱 **Learning:** Rust for high-performance system applications
 - 🤝 **Open to:** Collaborating on projects that make technology more accessible
 - 💡 **Exploring:** WebAssembly, Performance Optimization, and Developer Tools
-
+- 📝 **[Blogging](https://bento-blog-me.vercel.app/):** Random Thoughts,Captures And Life Ig
 ## 📊 GitHub Analytics
 
 <div align="center">
